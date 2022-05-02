@@ -1,0 +1,13 @@
+.table__cell{
+  display: flex;
+  flex-direction: column;
+}
+
+.cell_place_digits{
+  width: 250px;
+  margin-top: 60px;
+}
+.cell_place_kaufman{
+  width: 200px;
+  margin-top: 80px;
+}
